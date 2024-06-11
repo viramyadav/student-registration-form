@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///C:/Users/viram/OneDrive/Desktop/internshala%20assignments/Student%20registration%20system%20ass%202/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
